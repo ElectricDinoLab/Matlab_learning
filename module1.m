@@ -1,4 +1,4 @@
-% devi's training: module 1
+% module 1
 % how to put variables into a file & save it & other fun stuff
 
 % create the variables
